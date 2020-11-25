@@ -73,7 +73,6 @@ footer a {
     position: relative;
 }
 
-
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
@@ -264,6 +263,17 @@ footer a {
 }
 
 /* REACH OUT STYLES END */
+
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid #fce138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+
+}
 
 section {
     padding: 60px;
